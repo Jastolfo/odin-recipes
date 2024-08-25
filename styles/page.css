@@ -1,0 +1,25 @@
+body {
+  background-color: #e5e4db;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header {
+  color: black
+}
+
+.header.page {
+  text-align: center;
+  font-size: 60px;
+}
+
+.header.section {
+  font-size: 30px;
+}
+
+.contents {
+  background-color: bisque;
+}
+
+.recipes li {
+  font-size: 20px;
+}
