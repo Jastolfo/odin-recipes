@@ -1,4 +1,14 @@
+.title {
+  text-align: center;
+}
+
 .recipe-image {
   height: 350px;
   width: 450px;
+  margin: 0 auto;
+  display: block;
+}
+
+.section-header {
+  font-size: 25px;
 }
